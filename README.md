@@ -1,15 +1,39 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+
 ## 👩‍💻 Sobre Mim
 
+- 🤖 Atualmente cursando Engenharia de Software no <a href="https://www.inteli.edu.br" style="color: purple; text-decoration: 0">Inteli</a>.
+- 📋 Cursei Desenvolvimento de Sistemas na ETEC Taboão da Serra.
+- ⚡ Iniciando no desenvolvimento de jogos.
+- ⏮️ Último projeto: Smart Yard.
+- 🤔 Curiosidades:
+    - Gosto muito de futebol, torço para o 🦅 Corinthians e 😺 Barcelona.
+    - Amo jogos eletrônicos, principalmente The Last of Us 🧟.
+    
+## 🛠️ Linguagens e Ferramentas
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <br>
+  <br>
+  <br>
+  <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
+  <img align="center" alt="Visual-Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="Android-Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
+  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+</div>
+<br>
+<br>
+<br>
 
-
-- 🤖 Currently Software Engineering Student at <a href="https://www.inteli.edu.br" style="color: purple; text-decoration: 0">Inteli</a>
-- 📋 Systems Developer from ETEC Taboão Da Serra
-- ⚡ Getting Started in Game Development
-- ⏮️ Latest Project: Smart Yard
-
-
-
-## 📞 Contact Me
+## 📞 Contatos
 
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -19,3 +43,5 @@
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+
