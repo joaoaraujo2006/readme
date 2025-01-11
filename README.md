@@ -8,8 +8,8 @@
 - ⚡ Iniciando no desenvolvimento de jogos.
 - ⏮️ Último projeto: Smart Yard.
 - 🤔 Curiosidades:
-    - Gosto muito de futebol, torço para o 🦅 Corinthians e 😺 Barcelona.
-    - Amo jogos eletrônicos, principalmente The Last of Us 🧟.
+    - Gosto muito de futebol, torço para o Corinthians e Barcelona.
+    - Amo jogos eletrônicos, principalmente The Last of Us.
     
 ## 🛠️ Linguagens e Ferramentas
   <div style="display: inline_block"><br>
