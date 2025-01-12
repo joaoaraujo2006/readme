@@ -27,9 +27,15 @@
   <img align="center" alt="Android-Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </div>
 <br>
+<br>
+
+## 📝 Projetos Recentes
+
+- 🌳 Smart Yard: Sistema de irrigação inteligente utilizando ESP32, conectada a um aplicativo criado para o monitaramento com o objetivo da redução dos gastos de recursos hídricos. O projeto foi meu TCC na ETEC de Taboão da Serra. 
+- 📚 iStudy: Aplicativo desenvolvido na ONDA para facilitar o autoestudo através de materiais e quizes. 
+- 🎮 Anime Battle Arena: Jogo em início de desenvolvimento em Lua na plataforma Roblox Studio.
 <br>
 <br>
 
@@ -40,7 +46,7 @@
   <a href="https://www.instagram.com/joaopedrogca/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="mailto:joao.araujo@sou.inteli.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
   
 </div>
 
