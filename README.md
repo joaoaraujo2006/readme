@@ -2,7 +2,7 @@
 
 
 ## 👩‍💻 Sobre Mim
-Olá! Tudo bem? Meu nome é João Pedro Gonçalves Corrêa Araujo, tenho 18 anos e sou um curioso estudante de tecnologia e programação, apaixonado por jogos e iniciando aprendizado sobre seu desenvolvimento.
+Olá! Tudo bem? Meu nome é João Pedro Gonçalves Corrêa Araujo, tenho 18 anos e sou um curioso estudante de tecnologia e programação, apaixonado por jogos e iniciando no seu desenvolvimento.
 
 - 🤖 Atualmente cursando Engenharia de Software no <a href="https://www.inteli.edu.br" style="color: purple; text-decoration: 0">Inteli</a>.
 - 📋 Cursei Desenvolvimento de Sistemas na ETEC Taboão da Serra.
