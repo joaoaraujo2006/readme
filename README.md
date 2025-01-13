@@ -40,11 +40,10 @@ Olá! Tudo bem? Meu nome é João Pedro Gonçalves Corrêa Araujo, tenho 18 anos
 - <h3>📚 iStudy: </h3>Aplicativo desenvolvido na ONDA para facilitar o autoestudo através de materiais e quizes. 
 - <h3>🎮 Anime Battle Arena:</h3> Jogo em início de desenvolvimento em Lua na plataforma Roblox Studio.
 <br>
-<br>
+
 
 ## 🤝 Meu Buddy
-<img></img>
-Quem diria que meu buddy se tornaria um amigo que me acompanhou nos últimos 8 anos, que além de me apresentar o Inteli, me ajudou muito nessa jornada que está apenas iniciando.
+Quem diria que meu buddy se tornaria um amigo que me acompanhou nos últimos 8 anos, que além de me apresentar o Inteli, me ajudou muito nessa jornada que está apenas iniciando. Por esse e outros inúmeros motivos, só tenho a agradecer por ser comtemplado por esse grande amigo e agora padrinho/buddy que a vida e o Inteli me deu! 
 
 <a href="https://www.instagram.com/joaopedrogca/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
@@ -59,5 +58,14 @@ Quem diria que meu buddy se tornaria um amigo que me acompanhou nos últimos 8 a
 
   
 </div>
+
+## 📊 Estatisticas do GitHub
+
+    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoaraujo2006&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
+
+
+
 
 
