@@ -46,7 +46,7 @@ Olá! Tudo bem? Meu nome é João Pedro Gonçalves Corrêa Araujo, tenho 18 anos
 
 ![WhatsApp Video 2025-01-12 at 23 39 49 (2)](https://github.com/user-attachments/assets/e23e0bf1-1e5c-47d9-b3ea-e76992618442)
 <br>
-<h5>Fernando Soares de Oliveira</h5>
+<h4>Fernando Soares de Oliveira</h4>
 Quem diria que meu buddy se tornaria um amigo que me acompanhou nos últimos 8 anos, que além de me apresentar o Inteli, me ajudou muito nessa jornada que está apenas iniciando. Por esse e outros inúmeros motivos, só tenho a agradecer por ser comtemplado por esse grande amigo e agora padrinho/buddy que a vida e o Inteli me deu! 
 <br>
 <br>
