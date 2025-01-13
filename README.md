@@ -1,7 +1,5 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-![242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b](https://github.com/user-attachments/assets/d6020bec-baef-4711-a267-133a62aff620)
-
 
 ## 👩‍💻 Sobre Mim
 Olá! Tudo bem? Meu nome é João Pedro Gonçalves Corrêa Araujo, tenho 18 anos e sou um curioso estudante de tecnologia e programação, apaixonado por jogar e iniciando no desenvolvimento de jogos digitais.
