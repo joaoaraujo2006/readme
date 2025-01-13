@@ -2,10 +2,12 @@
 
 
 ## 👩‍💻 Sobre Mim
+Olá! Tudo bem? Meu nome é João Pedro Gonçalves Corrêa Araujo, tenho 18 anos e sou um curioso estudante de tecnologia e programação, apaixonado por jogar e iniciando no desenvolvimento de jogos digitais.
 
 - 🤖 Atualmente cursando Engenharia de Software no <a href="https://www.inteli.edu.br" style="color: purple; text-decoration: 0">Inteli</a>.
 - 📋 Cursei Desenvolvimento de Sistemas na ETEC Taboão da Serra.
 - ⚡ Iniciando no desenvolvimento de jogos.
+- 📍 Taboão da Serra, SP.
 - ⏮️ Último projeto: Smart Yard.
 - 🤔 Curiosidades:
     - Gosto muito de futebol, torço para o Corinthians e Barcelona.
@@ -33,9 +35,9 @@
 
 ## 📝 Projetos Recentes
 
-- 🌳 Smart Yard: Sistema de irrigação inteligente utilizando ESP32, conectada a um aplicativo criado para o monitaramento com o objetivo da redução dos gastos de recursos hídricos. O projeto foi meu TCC na ETEC de Taboão da Serra. 
-- 📚 iStudy: Aplicativo desenvolvido na ONDA para facilitar o autoestudo através de materiais e quizes. 
-- 🎮 Anime Battle Arena: Jogo em início de desenvolvimento em Lua na plataforma Roblox Studio.
+- <h3>🌳 Smart Yard: </h3> Sistema de irrigação inteligente utilizando ESP32, conectada a um aplicativo criado para o monitaramento com o objetivo da redução dos gastos de recursos hídricos. O projeto foi meu TCC na ETEC de Taboão da Serra. 
+- <h3>📚 iStudy: </h3>Aplicativo desenvolvido na ONDA para facilitar o autoestudo através de materiais e quizes. 
+- <h3>🎮 Anime Battle Arena:</h3> Jogo em início de desenvolvimento em Lua na plataforma Roblox Studio.
 <br>
 <br>
 
@@ -51,3 +53,8 @@
 </div>
 
 
+## 🤝 Meu Buddy
+
+Quem diria que meu buddy se tornaria um amigo que me acompanhou nos últimos 8 anos, que além de me apresentar o Inteli, me ajudou não apenas no ingresso, mas em todas as etapas da minha vida.
+
+<a href="https://www.instagram.com/joaopedrogca/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
