@@ -1,6 +1,7 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-<img></img>
+![242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b](https://github.com/user-attachments/assets/d6020bec-baef-4711-a267-133a62aff620)
+
 
 ## 👩‍💻 Sobre Mim
 Olá! Tudo bem? Meu nome é João Pedro Gonçalves Corrêa Araujo, tenho 18 anos e sou um curioso estudante de tecnologia e programação, apaixonado por jogar e iniciando no desenvolvimento de jogos digitais.
@@ -43,6 +44,9 @@ Olá! Tudo bem? Meu nome é João Pedro Gonçalves Corrêa Araujo, tenho 18 anos
 
 
 ## 🤝 Meu Buddy
+
+
+
 Quem diria que meu buddy se tornaria um amigo que me acompanhou nos últimos 8 anos, que além de me apresentar o Inteli, me ajudou muito nessa jornada que está apenas iniciando. Por esse e outros inúmeros motivos, só tenho a agradecer por ser comtemplado por esse grande amigo e agora padrinho/buddy que a vida e o Inteli me deu! 
 
 <a href="https://www.instagram.com/joaopedrogca/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
