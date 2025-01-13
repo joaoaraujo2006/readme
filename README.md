@@ -58,7 +58,7 @@ Quem diria que meu buddy se tornaria um amigo que me acompanhou nos últimos 8 a
 - 🔗 Faz parte do clube de Blockchain.
 
 <br>
-<a href="https://www.instagram.com/joaopedrogca/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://github.com/Fernandoliveira05" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
 
 ## 📞 Contatos
