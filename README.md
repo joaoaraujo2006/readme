@@ -1,5 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
+<img></img>
 
 ## 👩‍💻 Sobre Mim
 Olá! Tudo bem? Meu nome é João Pedro Gonçalves Corrêa Araujo, tenho 18 anos e sou um curioso estudante de tecnologia e programação, apaixonado por jogar e iniciando no desenvolvimento de jogos digitais.
@@ -41,10 +42,17 @@ Olá! Tudo bem? Meu nome é João Pedro Gonçalves Corrêa Araujo, tenho 18 anos
 <br>
 <br>
 
+## 🤝 Meu Buddy
+<img></img>
+Quem diria que meu buddy se tornaria um amigo que me acompanhou nos últimos 8 anos, que além de me apresentar o Inteli, me ajudou muito nessa jornada que está apenas iniciando.
+
+<a href="https://www.instagram.com/joaopedrogca/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+
+
 ## 📞 Contatos
 
 <div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@Jo%C3%A3oPedroGon%C3%A7alves-y4s" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/joaopedrogca/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="mailto:joao.araujo@sou.inteli.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -53,8 +61,3 @@ Olá! Tudo bem? Meu nome é João Pedro Gonçalves Corrêa Araujo, tenho 18 anos
 </div>
 
 
-## 🤝 Meu Buddy
-
-Quem diria que meu buddy se tornaria um amigo que me acompanhou nos últimos 8 anos, que além de me apresentar o Inteli, me ajudou não apenas no ingresso, mas em todas as etapas da minha vida.
-
-<a href="https://www.instagram.com/joaopedrogca/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
